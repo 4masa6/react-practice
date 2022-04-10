@@ -1,6 +1,5 @@
-/**
- * コンポーネントの書き方
- */
+// コンポーネントの書き方
+
 // import React
 import React from "react";
 
