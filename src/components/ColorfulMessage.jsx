@@ -2,7 +2,7 @@ import React from "react";
 
 // 引数でproosを受け取れる
 const ColorfulMessage = (props) => {
-  console.log(props);
+  // console.log(props);
 
   // 分割代入でpropsを取り出すとコードがスッキリする
   const { color, children } = props;
