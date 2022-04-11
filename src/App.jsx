@@ -1,7 +1,7 @@
 // import React
 // reactの中から分割代入でuseState, useEffectを取り出す
 import React, { useEffect, useState } from "react";
-import ColorfulMessage from "./components/ColorfulMessage";
+import { ColorfulMessage } from "./components/ColorfulMessage";
 
 // JSX記法：JavaScriptの中でHTMLのタグをreturnする
 // returnする中のタグは、１つのタグで囲う必要がある <>~</>（<React.Fragment>~</React.Fragment>の略）
